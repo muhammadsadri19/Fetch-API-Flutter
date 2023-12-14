@@ -1,8 +1,6 @@
 import 'dart:convert';
 
-import 'package:flutter/material.dart';
 import 'package:learn_api/pages/models/user_model.dart';
-import 'package:learn_api/pages/page_1.dart';
 import 'package:http/http.dart' as http;
 
 class UsersController {
