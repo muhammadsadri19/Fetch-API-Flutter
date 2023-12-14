@@ -18,7 +18,7 @@ final UsersController usersController = UsersController();
 
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Learning API'),
+        title: const Text('LEARNING API'),
         centerTitle: true,
       ),
       body: FutureBuilder<List<Users>>(
